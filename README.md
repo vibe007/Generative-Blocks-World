@@ -3,6 +3,10 @@
 **Authors:** Vaibhav Vavilala, Seemandhar Jain, Rahul Vasanth, D. A. Forsyth, Anand Bhattad  
 **Paper:** [arXiv:2506.20703](https://arxiv.org/abs/2506.20703)
 
+![Teaser](assets/cat.jpg)
+
+
+
 ---
 
 ## Abstract
@@ -15,6 +19,8 @@ We describe **Generative Blocks World** to interact with the scene of a generate
 
 A 3D-aware image editing framework that represents scenes as convex primitives and uses a depth-conditioned generative model to re-render consistent images after moving objects or the camera.
 
+
+![Example](assets/can.jpg)
 
 ---
 
